@@ -49,14 +49,11 @@
 こんにちは！こちらは私のGitHubポートフォリオサイトです。  
 現在公開中の主なプロジェクトを以下に紹介します。
 
----
-
 ## 🗂 ポートフォリオプロジェクト
 
 - [TsukimiShinosawa_section6-1](https://github.com/tsukimi40/TsukimiShinosawa_section6-1)  
   TypeScript × CSS を使った個人ポートフォリオプロジェクト
 
----
 
 ## 📂 チーム開発プロジェクト一覧
 
@@ -68,8 +65,7 @@
 
 - ✈ [Travel Rate](https://github.com/ms-engineer-bc25-02/TeamB_section8.git)  
   銀行APIを活用した、**残高照会・振込機能付き**の海外旅行向け通貨管理アプリ
-
----
+  
 
 ## 📊 個人開発：家計簿アプリ
 
@@ -77,7 +73,6 @@
 - バックエンド：[Express.js版](https://github.com/ms-engineer-bc25-02/TsukimiShinosawa_section4_Express.js.git)  
   **PostgreSQL** を使った家計簿管理アプリ
 
----
 
 📫 他の活動も随時追加予定です！ご覧いただきありがとうございます 😊
 
