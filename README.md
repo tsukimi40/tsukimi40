@@ -44,7 +44,7 @@
 
 ---
 
-# 🌟 Tsukimi Shinosawa's Portfolio
+# 🌟 My Project
 
 こんにちは！こちらは私のGitHubポートフォリオサイトです。  
 現在公開中の主なプロジェクトを以下に紹介します。
