@@ -1,18 +1,62 @@
-# About me
+# 👋 Hello! I'm Tsukimi Shinosawa
 
+フルスタックエンジニアとして、「あったらいいな😃」を形にするWebアプリを日々開発中です。  
+現在は新しいチャレンジと仲間を求めています！
 
-**tsukimi40/tsukimi40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💡 自己紹介
 
-- 🔭 現在取り組んでいること：**Next.js**、**Flask**、**PostgreSQL**、**Firebase Authentication** を使った不動産マッチングアプリの開発  
-- 🌱 現在学習中：**Docker**、**Stripe API**、**Firebase Cloud Messaging**（通知機能の実装）  
-- 👯 協力したいこと：**医療**・**教育**・**世代間交流**など、社会課題を解決するWebアプリ開発  
-- 🤔 助けてほしいこと：スケーラブルなバックエンド構成や通知機能の構築に関する知見  
-- 💬 聞いてほしいこと：**React**・**Python（Flask）**・**API設計**・**チーム開発経験**について  
-- 📫 連絡方法：[あなたのメールアドレス or LinkedIn/GitHub のURL]  
-- 😄 呼び方（代名詞）：彼女  
-- ⚡ ちょっとした事実：3日間でアプリを作成しました😎  
-- ✨ 興味関心：AIやIT技術で「あったらいいな😃」をというアプリを創造したい
-- 🏅 スキル：フルスタック開発 / UI・UX設計 / API連携  
-- 🎨 趣味：俳句🖊、バードウォッチング🕊、ヨガ🤟
+- 🔭 **現在取り組んでいること**：  
+  **Next.js / Flask / PostgreSQL / Firebase Authentication** を活用した不動産マッチングアプリの開発
+- 🌱 **現在学習中**：  
+  **Docker / Stripe API / Firebase Cloud Messaging**（通知機能の実装）
+- 👯 **協力したいこと**：  
+  医療・教育・世代間交流など、社会課題を解決するWebアプリづくり
+- 🤔 **助けてほしいこと**：  
+  スケーラブルなバックエンド構成や通知機能の構築ノウハウ
+- 💬 **聞いてほしいこと**：  
+  **React / Python（Flask） / API設計 / チーム開発経験**
+- 😄 **呼び方（代名詞）**：  
+  彼女（She/Her）
+- ⚡ **ちょっとした事実**：  
+  チーム開発で3日間でアプリを一気に実装しました😎
+- ✨ **興味関心**：  
+  AIやIT技術で、「こんなの欲しかった！」を実現するアプリを創造したい
+- 🏅 **スキル**：  
+  フルスタック開発 / UI・UX設計 / API連携
+- 🎨 **趣味**：  
+  俳句🖊 / バードウォッチング🕊 / ヨガ🤟
+
+---
+
+## 🛠 使用技術スタック（Languages and Tools）
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tsukimi202205&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsukimi202205&layout=compact" />
+</p>
+
+---
+
+## 🏆 GitHubバッジ（Trophy）
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tsukimi202205&theme=flat&column=6" />
+</p>
