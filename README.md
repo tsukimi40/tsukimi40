@@ -46,17 +46,3 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tsukimi202205&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsukimi202205&layout=compact" />
-</p>
-
----
-
-## 🏆 GitHubバッジ（Trophy）
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tsukimi202205&theme=flat&column=6" />
-</p>
